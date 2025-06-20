@@ -1,0 +1,11 @@
+[package]
+name = "timewise_regression"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "timewise_regression"
+path = "src/lib.rs"
+
+[dev-dependencies]
+approx = "0.5"
